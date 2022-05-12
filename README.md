@@ -17,4 +17,5 @@ https://youtube.com/playlist?list=PLzKF7sAvC2S9wrGq0UPqzbypOzwXagE2J
 * Curso scikit-learn | Curva ROC | Machine Learning Python 05: https://youtu.be/RZiWJIyaQbg
 * Curso scikit-learn | Regresion logistica | Machine Learning Python 06: https://youtu.be/dMHGWB41xJA
 * Curso scikit-learn | Regresion ridge | Machine Learning Python 07: https://youtu.be/6bL-zEqKHXc
-* Curso scikit learn | K vecinos mas cercanos (KNN) | Machine Learning Python 08: https://youtu.be/NQEl4IkCYWQ
+* Curso scikit learn | K-vecinos mas cercanos (KNN) | Machine Learning Python 08: https://youtu.be/NQEl4IkCYWQ
+* Curso scikit learn | Regresion con k-vecinos mas cercanos (KNN) | Machine Learning Python 09: https://youtu.be/Of6cznlBJr0
